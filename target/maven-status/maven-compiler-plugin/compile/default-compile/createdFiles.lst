@@ -1,0 +1,8 @@
+com/yotdev/ghostblock/utils/LocationSerializer.class
+com/yotdev/ghostblock/events/JoinListener.class
+com/yotdev/ghostblock/events/PlaceListener.class
+com/yotdev/ghostblock/utils/JSONHelper.class
+com/yotdev/ghostblock/events/BreakListener.class
+com/yotdev/ghostblock/item/GhostBlockItem.class
+com/yotdev/ghostblock/Main.class
+com/yotdev/ghostblock/events/InteractListener.class

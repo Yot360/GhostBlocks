@@ -1,0 +1,7 @@
+name: GhostBlock
+version: '${project.version}'
+main: com.yotdev.ghostblock.Main
+api-version: 1.18
+authors: [ Yot ]
+description: A plugin that adds ghost blocks
+website: https://yot-dev.com
